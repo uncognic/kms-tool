@@ -6,6 +6,6 @@ timeout 2
 slmgr /skms kms.digiboy.ir
 timeout 2
 slmgr /ato
-print Windows is activated.
+echo Windows is activated.
 pause
 exit
