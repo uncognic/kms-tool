@@ -1,4 +1,4 @@
-# WINDOWS-10-PRO-ACTIVATOR
+# w10-pro-activator
 It's a simple Windows 10 Pro Activator I made in a couple of minutes
 
 # FAQ
