@@ -10,4 +10,4 @@ A: Run as Administrator.
 
 # Credits
 
-Credit to [he3als](https://github.com/he3als) for the choice system
+Credit to [he3als](https://github.com/he3als) for the code for the choice system
