@@ -8,6 +8,3 @@ A: You might have to run the script everytime it deactivates, which is about 180
 Q: **It doesn't work!**
 A: Run as Administrator.
 
-# Credits
-
-Credit to [he3als](https://github.com/he3als) for the code for the choice system
